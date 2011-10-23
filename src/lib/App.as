@@ -16,7 +16,7 @@ package lib {
 		private var _context:NoteItContext;
 		
 		public function App() {
-			Debug.echo("----------------- Note.It version 1.0 | Project by Krasimir Tsonev -----------------");
+			Debug.echo("Note.It version 1.0 | Project by Krasimir Tsonev");
 			Storage.getSetting("root").addChild(DisplayHelper.wrapInUIComponent(this));
 			setTimeout(setAIRDebug, 50);
 		}
