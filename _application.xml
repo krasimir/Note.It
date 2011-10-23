@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/1.0">
+	
+	<id>Note.It</id>
+	<versionNumber>1.0</versionNumber>
+	<filename>Note.It</filename>
+  
+	<name>Note.It</name> 
+	<description>Note.It</description> 
+	<copyright>Note.It</copyright>
+  
+	<initialWindow>
+		<title>Note.It</title>
+		<content>NoteIt.swf</content>
+		<systemChrome>standard</systemChrome>
+		<transparent>false</transparent>
+		<visible>false</visible>
+		<minimizable>true</minimizable>
+		<maximizable>true</maximizable>
+		<resizable>true</resizable>
+	</initialWindow>
+	
+	<!--<installFolder>SVETSoft/Note.It</installFolder>
+	<programMenuFolder>SVETSoft</programMenuFolder>
+	<icon>
+		<image16x16>icons/icon16x16.png</image16x16>
+		<image32x32>icons/icon32x32.png</image32x32>
+		<image48x48>icons/icon48x48.png</image48x48>
+		<image128x128>icons/icon128x128.png</image128x128>
+	</icon>
+   
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>

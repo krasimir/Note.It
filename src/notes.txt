@@ -1,0 +1,2 @@
+Run custom command:
+$(FlexSDK)\bin\adl.exe;application.xml bin

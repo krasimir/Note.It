@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/2.7">
+	
+	<id>Note.It</id> 
+	<versionNumber>1.0</versionNumber> 
+	<filename>Note.It</filename> 
+	
+	<name>Note.It</name> 
+	<description>Note.It</description> 
+	<copyright>Note.It</copyright> 
+	
+	<initialWindow> 
+		<title>Note.It</title> 
+		<content>NoteIt.swf</content> 
+		<systemChrome>standard</systemChrome> 
+		<transparent>false</transparent> 
+		<visible>false</visible> 
+		<minimizable>true</minimizable> 
+		<maximizable>true</maximizable> 
+		<resizable>true</resizable> 
+	</initialWindow> 
+	
+	<!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>
